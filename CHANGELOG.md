@@ -511,3 +511,4 @@
 - 2026-07-16: Polish docs
 - 2026-04-27: Expand section
 - 2026-10-06: Expand section
+- 2026-12-14: Update guide
