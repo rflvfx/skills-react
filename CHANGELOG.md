@@ -499,3 +499,4 @@
 - 2026-08-02: Clarify section
 - 2026-02-01: Clarify section
 - 2026-05-17: Small fix
+- 2026-12-28: Adjust content
