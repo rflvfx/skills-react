@@ -40,3 +40,4 @@
 - 2022-11-28: Update context optimization reference
 - 2026-01-20: Document context optimization
 - 2026-10-17: Document render batching
+- 2026-12-06: Improve list virtualization coverage
