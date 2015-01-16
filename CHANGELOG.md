@@ -52,3 +52,4 @@
 - 2015-08-27: Add remark
 - 2015-03-11: Update guide
 - 2015-05-19: Update notes
+- 2015-01-16: Fix example
