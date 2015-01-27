@@ -89,3 +89,4 @@
 - 2015-03-11: Minor update
 - 2015-12-22: Typo fix
 - 2015-02-06: Minor update
+- 2015-01-27: Update notes
