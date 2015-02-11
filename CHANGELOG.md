@@ -85,3 +85,4 @@
 - 2015-04-14: Update notes
 - 2015-08-26: Improve docs
 - 2015-06-16: Add note
+- 2015-02-11: Small fix
