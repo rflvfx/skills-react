@@ -50,3 +50,4 @@
 - 2026-12-01: Update context optimization reference
 - 2015-06-18: Typo fix
 - 2015-08-27: Add remark
+- 2015-03-11: Update guide
