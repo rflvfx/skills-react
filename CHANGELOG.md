@@ -80,3 +80,4 @@
 - 2015-09-27: Clarify section
 - 2015-07-28: Adjust content
 - 2015-11-06: Add detail
+- 2015-03-27: Update guide
