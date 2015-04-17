@@ -67,3 +67,4 @@
 - 2015-10-28: Add detail
 - 2015-11-08: Add detail
 - 2015-02-17: Minor update
+- 2015-04-17: Refine text
