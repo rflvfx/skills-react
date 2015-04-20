@@ -6,3 +6,4 @@
 - 2015-05-20: Typo fix
 - 2015-12-21: Adjust content
 - 2015-10-11: Update guide
+- 2015-04-20: Clarify section
