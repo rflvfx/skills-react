@@ -51,3 +51,4 @@
 - 2015-06-18: Typo fix
 - 2015-08-27: Add remark
 - 2015-03-11: Update guide
+- 2015-05-19: Update notes
