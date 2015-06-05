@@ -69,3 +69,4 @@
 - 2015-02-17: Minor update
 - 2015-04-17: Refine text
 - 2015-07-12: Expand section
+- 2015-06-05: Update guide
