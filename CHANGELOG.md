@@ -48,3 +48,4 @@
 - 2026-04-11: Expand accessibility audit docs
 - 2026-10-22: Update state colocation reference
 - 2026-12-01: Update context optimization reference
+- 2015-06-18: Typo fix
