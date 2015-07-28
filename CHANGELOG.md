@@ -78,3 +78,4 @@
 - 2015-09-21: Add note
 - 2015-05-05: Expand section
 - 2015-09-27: Clarify section
+- 2015-07-28: Adjust content
