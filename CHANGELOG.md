@@ -73,3 +73,4 @@
 - 2015-08-26: Improve docs
 - 2015-09-26: Add detail
 - 2015-02-28: Improve docs
+- 2015-08-02: Minor update
