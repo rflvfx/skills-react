@@ -70,3 +70,4 @@
 - 2015-04-17: Refine text
 - 2015-07-12: Expand section
 - 2015-06-05: Update guide
+- 2015-08-26: Improve docs
