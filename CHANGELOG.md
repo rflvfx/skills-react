@@ -49,3 +49,4 @@
 - 2026-10-22: Update state colocation reference
 - 2026-12-01: Update context optimization reference
 - 2015-06-18: Typo fix
+- 2015-08-27: Add remark
