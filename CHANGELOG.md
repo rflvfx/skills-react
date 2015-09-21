@@ -62,3 +62,4 @@
 - 2015-12-06: Minor update
 - 2015-08-19: Update guide
 - 2015-10-27: Add detail
+- 2015-09-21: Review content
