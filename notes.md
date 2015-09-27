@@ -8,3 +8,4 @@
 - 2015-10-11: Update guide
 - 2015-04-20: Clarify section
 - 2015-08-03: Update notes
+- 2015-09-27: Fix example
