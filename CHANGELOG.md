@@ -61,3 +61,4 @@
 - 2015-03-01: Add note
 - 2015-12-06: Minor update
 - 2015-08-19: Update guide
+- 2015-10-27: Add detail
