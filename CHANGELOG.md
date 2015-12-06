@@ -59,3 +59,4 @@
 - 2015-05-15: Expand section
 - 2015-12-14: Expand section
 - 2015-03-01: Add note
+- 2015-12-06: Minor update
