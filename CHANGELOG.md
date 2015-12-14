@@ -57,3 +57,4 @@
 - 2015-12-24: Expand section
 - 2015-12-27: Improve docs
 - 2015-05-15: Expand section
+- 2015-12-14: Expand section
