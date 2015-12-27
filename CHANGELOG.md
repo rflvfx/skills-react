@@ -55,3 +55,4 @@
 - 2015-01-16: Fix example
 - 2015-05-14: Add remark
 - 2015-12-24: Expand section
+- 2015-12-27: Improve docs
