@@ -17,3 +17,4 @@
 - 2016-08-26: Polish docs
 - 2016-02-21: Polish docs
 - 2016-11-19: Add detail
+- 2016-02-08: Adjust content
