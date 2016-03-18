@@ -113,3 +113,4 @@
 - 2016-09-16: Adjust content
 - 2016-12-28: Refine text
 - 2016-10-22: Small fix
+- 2016-03-18: Typo fix
