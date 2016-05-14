@@ -18,3 +18,4 @@
 - 2016-02-21: Polish docs
 - 2016-11-19: Add detail
 - 2016-02-08: Adjust content
+- 2016-05-14: Small fix
