@@ -115,3 +115,4 @@
 - 2016-10-22: Small fix
 - 2016-03-18: Typo fix
 - 2016-06-26: Expand section
+- 2016-06-01: Adjust content
