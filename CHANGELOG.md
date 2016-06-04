@@ -104,3 +104,4 @@
 - 2016-12-11: Small fix
 - 2016-04-23: Update guide
 - 2016-08-08: Expand section
+- 2016-06-04: Fix example
