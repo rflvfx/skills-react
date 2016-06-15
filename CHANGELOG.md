@@ -116,3 +116,4 @@
 - 2016-03-18: Typo fix
 - 2016-06-26: Expand section
 - 2016-06-01: Adjust content
+- 2016-06-15: Fix example
