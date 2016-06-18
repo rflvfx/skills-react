@@ -25,3 +25,4 @@
 - 2016-02-08: Typo fix
 - 2016-07-24: Refine text
 - 2016-03-12: Add detail
+- 2016-06-18: Adjust content
