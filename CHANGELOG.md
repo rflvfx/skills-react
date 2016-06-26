@@ -114,3 +114,4 @@
 - 2016-12-28: Refine text
 - 2016-10-22: Small fix
 - 2016-03-18: Typo fix
+- 2016-06-26: Expand section
