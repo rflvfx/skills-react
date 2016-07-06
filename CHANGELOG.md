@@ -93,3 +93,4 @@
 - 2016-07-13: Typo fix
 - 2016-03-02: Add detail
 - 2016-10-14: Polish docs
+- 2016-07-06: Small fix
