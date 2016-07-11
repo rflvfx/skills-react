@@ -117,3 +117,4 @@
 - 2016-06-26: Expand section
 - 2016-06-01: Adjust content
 - 2016-06-15: Fix example
+- 2016-07-11: Update notes
