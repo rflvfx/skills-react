@@ -1,2 +1,3 @@
 - 2015-06-06 - Update notes
 - 2016-06-03 - Small fixes
+- 2016-07-20 - Improve documentation
