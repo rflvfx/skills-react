@@ -23,3 +23,4 @@
 - 2016-10-25: Clarify section
 - 2016-04-27: Update guide
 - 2016-02-08: Typo fix
+- 2016-07-24: Refine text
