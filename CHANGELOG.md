@@ -8,3 +8,5 @@
 - 2017-01-02: Review suspense patterns section
 - 2016-01-13: Refine suspense patterns guide
 - 2017-02-27: Refine portal usage guide
+- 2016-03-22: Review portal usage section
+- 2016-07-28: Add ref forwarding notes
