@@ -103,3 +103,4 @@
 - 2016-07-23: Refine text
 - 2016-12-11: Small fix
 - 2016-04-23: Update guide
+- 2016-08-08: Expand section
