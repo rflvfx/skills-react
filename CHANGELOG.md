@@ -96,3 +96,4 @@
 - 2016-07-06: Small fix
 - 2016-10-07: Refine text
 - 2016-09-01: Update guide
+- 2016-08-15: Expand section
