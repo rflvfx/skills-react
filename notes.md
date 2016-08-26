@@ -14,3 +14,4 @@
 - 2015-07-15: Fix example
 - 2015-06-27: Fix example
 - 2016-12-20: Review content
+- 2016-08-26: Polish docs
