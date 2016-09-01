@@ -95,3 +95,4 @@
 - 2016-10-14: Polish docs
 - 2016-07-06: Small fix
 - 2016-10-07: Refine text
+- 2016-09-01: Update guide
