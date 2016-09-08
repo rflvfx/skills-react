@@ -107,3 +107,4 @@
 - 2016-06-04: Fix example
 - 2016-08-06: Fix example
 - 2016-12-05: Add remark
+- 2016-09-08: Fix example
