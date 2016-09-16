@@ -110,3 +110,4 @@
 - 2016-09-08: Fix example
 - 2016-02-04: Review content
 - 2016-09-19: Update guide
+- 2016-09-16: Adjust content
