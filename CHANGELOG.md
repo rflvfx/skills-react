@@ -125,3 +125,4 @@
 - 2016-03-09: Adjust content
 - 2016-10-03: Typo fix
 - 2016-10-09: Expand section
+- 2016-09-28: Adjust content
