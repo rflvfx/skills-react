@@ -119,3 +119,4 @@
 - 2016-06-15: Fix example
 - 2016-07-11: Update notes
 - 2016-08-13: Review content
+- 2016-10-03: Clarify section
