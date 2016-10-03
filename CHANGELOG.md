@@ -123,3 +123,4 @@
 - 2016-10-19: Minor update
 - 2016-12-08: Polish docs
 - 2016-03-09: Adjust content
+- 2016-10-03: Typo fix
