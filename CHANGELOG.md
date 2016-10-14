@@ -92,3 +92,4 @@
 - 2015-01-27: Update notes
 - 2016-07-13: Typo fix
 - 2016-03-02: Add detail
+- 2016-10-14: Polish docs
