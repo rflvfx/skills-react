@@ -20,3 +20,4 @@
 - 2016-02-08: Adjust content
 - 2016-05-14: Small fix
 - 2016-05-09: Clarify section
+- 2016-10-25: Clarify section
