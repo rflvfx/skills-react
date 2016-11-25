@@ -97,3 +97,4 @@
 - 2016-10-07: Refine text
 - 2016-09-01: Update guide
 - 2016-08-15: Expand section
+- 2016-11-25: Polish docs
