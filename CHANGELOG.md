@@ -121,3 +121,4 @@
 - 2016-08-13: Review content
 - 2016-10-03: Clarify section
 - 2016-10-19: Minor update
+- 2016-12-08: Polish docs
