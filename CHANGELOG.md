@@ -101,3 +101,4 @@
 - 2016-08-23: Improve docs
 - 2016-06-06: Small fix
 - 2016-07-23: Refine text
+- 2016-12-11: Small fix
