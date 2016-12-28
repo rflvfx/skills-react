@@ -111,3 +111,4 @@
 - 2016-02-04: Review content
 - 2016-09-19: Update guide
 - 2016-09-16: Adjust content
+- 2016-12-28: Refine text
