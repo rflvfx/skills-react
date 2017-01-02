@@ -157,3 +157,4 @@
 - 2017-02-13: Update guide
 - 2017-04-28: Expand section
 - 2017-05-18: Update notes
+- 2017-01-02: Add remark
