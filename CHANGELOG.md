@@ -141,3 +141,4 @@
 - 2017-11-28: Add remark
 - 2017-07-16: Clarify section
 - 2017-07-03: Review content
+- 2017-01-02: Refine text
