@@ -154,3 +154,4 @@
 - 2017-07-11: Add remark
 - 2017-08-18: Add detail
 - 2017-12-11: Polish docs
+- 2017-02-13: Update guide
