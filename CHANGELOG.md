@@ -145,3 +145,4 @@
 - 2017-09-28: Fix example
 - 2017-09-02: Update guide
 - 2017-09-27: Improve docs
+- 2017-03-06: Minor update
