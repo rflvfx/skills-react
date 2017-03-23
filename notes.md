@@ -29,3 +29,4 @@
 - 2016-04-01: Minor update
 - 2016-09-16: Expand section
 - 2016-01-14: Minor update
+- 2017-03-23: Update guide
