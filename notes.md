@@ -31,3 +31,4 @@
 - 2016-01-14: Minor update
 - 2017-03-23: Update guide
 - 2017-07-10: Add note
+- 2017-04-04: Clarify section
