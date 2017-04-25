@@ -131,3 +131,4 @@
 - 2017-10-25: Improve docs
 - 2017-02-11: Small fix
 - 2017-10-19: Expand section
+- 2017-04-25: Clarify section
