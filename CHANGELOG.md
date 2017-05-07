@@ -161,3 +161,4 @@
 - 2017-07-25: Improve docs
 - 2017-02-06: Polish docs
 - 2017-06-06: Update notes
+- 2017-05-07: Add detail
