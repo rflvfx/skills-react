@@ -164,3 +164,4 @@
 - 2017-05-07: Add detail
 - 2017-08-21: Add note
 - 2017-05-28: Clarify section
+- 2017-05-18: Update guide
