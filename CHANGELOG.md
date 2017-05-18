@@ -156,3 +156,4 @@
 - 2017-12-11: Polish docs
 - 2017-02-13: Update guide
 - 2017-04-28: Expand section
+- 2017-05-18: Update notes
