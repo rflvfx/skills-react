@@ -38,3 +38,4 @@
 - 2017-11-10: Expand section
 - 2017-06-17: Fix example
 - 2017-07-17: Polish docs
+- 2017-06-02: Add note
