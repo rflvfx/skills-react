@@ -146,3 +146,4 @@
 - 2017-09-02: Update guide
 - 2017-09-27: Improve docs
 - 2017-03-06: Minor update
+- 2017-07-27: Minor update
