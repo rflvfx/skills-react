@@ -149,3 +149,4 @@
 - 2017-07-27: Minor update
 - 2017-01-06: Review content
 - 2017-08-11: Update notes
+- 2017-08-22: Minor update
