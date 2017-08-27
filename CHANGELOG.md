@@ -132,3 +132,4 @@
 - 2017-02-11: Small fix
 - 2017-10-19: Expand section
 - 2017-04-25: Clarify section
+- 2017-08-27: Update guide
