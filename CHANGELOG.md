@@ -144,3 +144,4 @@
 - 2017-01-02: Refine text
 - 2017-09-28: Fix example
 - 2017-09-02: Update guide
+- 2017-09-27: Improve docs
