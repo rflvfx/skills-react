@@ -135,3 +135,4 @@
 - 2017-08-27: Update guide
 - 2017-08-02: Update guide
 - 2017-06-13: Update notes
+- 2017-10-07: Add note
