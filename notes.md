@@ -35,3 +35,4 @@
 - 2017-11-24: Adjust content
 - 2017-06-12: Polish docs
 - 2017-11-24: Small fix
+- 2017-11-10: Expand section
