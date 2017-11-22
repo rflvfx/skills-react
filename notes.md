@@ -42,3 +42,4 @@
 - 2017-05-09: Add remark
 - 2017-02-21: Small fix
 - 2017-06-02: Update guide
+- 2017-11-22: Clarify section
