@@ -11,3 +11,4 @@
 - 2016-03-22: Review portal usage section
 - 2016-07-28: Add ref forwarding notes
 - 2018-10-06: Add effect cleanup notes
+- 2017-11-22: Improve key stability coverage
