@@ -12,3 +12,5 @@
 - 2016-07-28: Add ref forwarding notes
 - 2018-10-06: Add effect cleanup notes
 - 2017-11-22: Improve key stability coverage
+- 2017-11-27: Expand prop composition docs
+- 2019-01-03: Review prop composition section
