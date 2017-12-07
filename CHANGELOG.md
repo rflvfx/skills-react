@@ -14,3 +14,5 @@
 - 2017-11-22: Improve key stability coverage
 - 2017-11-27: Expand prop composition docs
 - 2019-01-03: Review prop composition section
+- 2017-12-07: Review code splitting section
+- 2019-02-07: Add code splitting notes
