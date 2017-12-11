@@ -153,3 +153,4 @@
 - 2017-05-17: Expand section
 - 2017-07-11: Add remark
 - 2017-08-18: Add detail
+- 2017-12-11: Polish docs
