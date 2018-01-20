@@ -172,3 +172,4 @@
 - 2018-11-05: Update guide
 - 2018-12-23: Update guide
 - 2018-09-13: Expand section
+- 2018-01-20: Improve docs
