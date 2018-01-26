@@ -48,3 +48,4 @@
 - 2018-10-17: Expand section
 - 2018-01-07: Refine text
 - 2018-03-03: Minor update
+- 2018-01-26: Review content
