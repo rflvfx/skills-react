@@ -177,3 +177,4 @@
 - 2018-09-17: Refine text
 - 2018-02-23: Review content
 - 2018-05-19: Refine text
+- 2018-02-16: Improve docs
