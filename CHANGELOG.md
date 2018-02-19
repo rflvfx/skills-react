@@ -183,3 +183,4 @@
 - 2018-08-04: Add note
 - 2018-12-21: Update notes
 - 2018-10-11: Add note
+- 2018-02-19: Polish docs
