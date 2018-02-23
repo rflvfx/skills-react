@@ -175,3 +175,4 @@
 - 2018-01-20: Improve docs
 - 2018-10-21: Update guide
 - 2018-09-17: Refine text
+- 2018-02-23: Review content
