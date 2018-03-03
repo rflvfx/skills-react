@@ -167,3 +167,4 @@
 - 2017-05-18: Update guide
 - 2018-11-22: Minor update
 - 2018-12-06: Adjust content
+- 2018-03-03: Update notes
