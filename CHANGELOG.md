@@ -17,3 +17,4 @@
 - 2017-12-07: Review code splitting section
 - 2019-02-07: Add code splitting notes
 - 2019-08-21: Refine testing setup guide
+- 2018-03-19: Document testing setup
