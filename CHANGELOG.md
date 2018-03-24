@@ -18,3 +18,4 @@
 - 2019-02-07: Add code splitting notes
 - 2019-08-21: Refine testing setup guide
 - 2018-03-19: Document testing setup
+- 2018-03-24: Refine accessibility audit guide
