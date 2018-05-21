@@ -179,3 +179,4 @@
 - 2018-05-19: Refine text
 - 2018-02-16: Improve docs
 - 2018-01-04: Fix example
+- 2018-05-21: Clarify section
