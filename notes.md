@@ -50,3 +50,4 @@
 - 2018-03-03: Minor update
 - 2018-01-26: Review content
 - 2018-05-12: Small fix
+- 2018-06-07: Small fix
