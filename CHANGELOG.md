@@ -190,3 +190,4 @@
 - 2018-03-14: Clarify section
 - 2018-11-27: Review content
 - 2018-09-01: Polish docs
+- 2018-06-20: Expand section
