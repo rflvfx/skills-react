@@ -197,3 +197,4 @@
 - 2018-04-21: Small fix
 - 2018-05-17: Add note
 - 2018-07-10: Adjust content
+- 2018-07-05: Improve docs
