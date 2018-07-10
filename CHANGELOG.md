@@ -196,3 +196,4 @@
 - 2018-12-21: Add remark
 - 2018-04-21: Small fix
 - 2018-05-17: Add note
+- 2018-07-10: Adjust content
