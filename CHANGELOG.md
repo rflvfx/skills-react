@@ -205,3 +205,4 @@
 - 2018-11-06: Add note
 - 2018-12-05: Improve docs
 - 2018-08-21: Minor update
+- 2018-07-20: Add note
