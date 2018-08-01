@@ -43,3 +43,4 @@
 - 2017-02-21: Small fix
 - 2017-06-02: Update guide
 - 2017-11-22: Clarify section
+- 2018-08-01: Polish docs
