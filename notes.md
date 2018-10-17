@@ -45,3 +45,4 @@
 - 2017-11-22: Clarify section
 - 2018-08-01: Polish docs
 - 2018-06-18: Clarify section
+- 2018-10-17: Expand section
