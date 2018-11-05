@@ -169,3 +169,4 @@
 - 2018-12-06: Adjust content
 - 2018-03-03: Update notes
 - 2018-04-09: Small fix
+- 2018-11-05: Update guide
