@@ -188,3 +188,4 @@
 - 2018-12-12: Small fix
 - 2018-11-08: Polish docs
 - 2018-03-14: Clarify section
+- 2018-11-27: Review content
