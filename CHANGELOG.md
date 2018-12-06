@@ -166,3 +166,4 @@
 - 2017-05-28: Clarify section
 - 2017-05-18: Update guide
 - 2018-11-22: Minor update
+- 2018-12-06: Adjust content
