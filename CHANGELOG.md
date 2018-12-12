@@ -185,3 +185,4 @@
 - 2018-10-11: Add note
 - 2018-02-19: Polish docs
 - 2018-11-20: Typo fix
+- 2018-12-12: Small fix
