@@ -193,3 +193,4 @@
 - 2018-06-20: Expand section
 - 2018-09-06: Add remark
 - 2018-02-28: Fix example
+- 2018-12-21: Add remark
