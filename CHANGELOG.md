@@ -232,3 +232,4 @@
 - 2019-06-12: Add detail
 - 2019-04-06: Expand section
 - 2019-07-28: Add note
+- 2019-01-23: Fix example
