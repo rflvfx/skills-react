@@ -56,3 +56,4 @@
 - 2019-11-24: Expand section
 - 2019-03-17: Typo fix
 - 2019-05-23: Fix example
+- 2019-02-06: Add note
