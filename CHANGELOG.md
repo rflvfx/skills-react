@@ -243,3 +243,4 @@
 - 2019-10-21: Review content
 - 2019-01-05: Add detail
 - 2019-12-27: Expand section
+- 2019-02-15: Update notes
