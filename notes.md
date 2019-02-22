@@ -65,3 +65,4 @@
 - 2019-05-01: Clarify section
 - 2019-07-08: Review content
 - 2019-05-09: Clarify section
+- 2019-02-22: Adjust content
