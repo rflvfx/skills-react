@@ -235,3 +235,4 @@
 - 2019-01-23: Fix example
 - 2019-08-15: Minor update
 - 2019-04-20: Polish docs
+- 2019-02-23: Fix example
