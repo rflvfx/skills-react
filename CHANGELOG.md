@@ -229,3 +229,4 @@
 - 2019-03-09: Typo fix
 - 2019-03-26: Expand section
 - 2019-10-07: Add note
+- 2019-06-12: Add detail
