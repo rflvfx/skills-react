@@ -22,3 +22,4 @@
 - 2020-10-24: Review context optimization section
 - 2018-10-23: Document context optimization
 - 2019-05-02: Review render batching section
+- 2019-06-16: Add list virtualization examples
