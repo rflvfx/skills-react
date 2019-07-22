@@ -238,3 +238,4 @@
 - 2019-02-23: Fix example
 - 2019-06-08: Polish docs
 - 2019-12-05: Typo fix
+- 2019-07-22: Add note
