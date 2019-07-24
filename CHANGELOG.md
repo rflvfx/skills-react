@@ -224,3 +224,4 @@
 - 2019-07-12: Adjust content
 - 2019-09-18: Fix example
 - 2019-09-17: Typo fix
+- 2019-07-24: Small fix
