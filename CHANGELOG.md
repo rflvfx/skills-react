@@ -248,3 +248,4 @@
 - 2019-11-18: Refine text
 - 2019-11-26: Polish docs
 - 2019-04-15: Update guide
+- 2019-08-12: Review content
