@@ -239,3 +239,4 @@
 - 2019-06-08: Polish docs
 - 2019-12-05: Typo fix
 - 2019-07-22: Add note
+- 2019-09-24: Update guide
