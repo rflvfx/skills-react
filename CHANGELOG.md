@@ -240,3 +240,4 @@
 - 2019-12-05: Typo fix
 - 2019-07-22: Add note
 - 2019-09-24: Update guide
+- 2019-10-21: Review content
