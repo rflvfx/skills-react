@@ -23,3 +23,5 @@
 - 2018-10-23: Document context optimization
 - 2019-05-02: Review render batching section
 - 2019-06-16: Add list virtualization examples
+- 2021-09-22: Add list virtualization examples
+- 2021-11-22: Improve form handling coverage
