@@ -53,3 +53,4 @@
 - 2018-06-07: Small fix
 - 2018-12-06: Review content
 - 2019-06-04: Clarify section
+- 2019-11-24: Expand section
