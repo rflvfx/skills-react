@@ -237,3 +237,4 @@
 - 2019-04-20: Polish docs
 - 2019-02-23: Fix example
 - 2019-06-08: Polish docs
+- 2019-12-05: Typo fix
