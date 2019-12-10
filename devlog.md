@@ -11,3 +11,4 @@
 - 2023-05-08 — Update notes
 - 2024-10-08 — Update notes
 - 2017-08-13 - Add usage example
+- 2019-12-10 - Update study notes
