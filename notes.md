@@ -61,3 +61,4 @@
 - 2019-12-07: Update notes
 - 2019-10-01: Update notes
 - 2019-06-26: Polish docs
+- 2019-12-20: Add remark
