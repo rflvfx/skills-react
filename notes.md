@@ -77,3 +77,4 @@
 - 2020-06-20: Polish docs
 - 2020-04-03: Fix example
 - 2020-11-24: Update guide
+- 2020-01-17: Add detail
