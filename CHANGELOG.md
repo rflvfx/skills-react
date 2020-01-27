@@ -278,3 +278,4 @@
 - 2020-12-09: Fix example
 - 2020-06-27: Minor update
 - 2020-03-16: Add remark
+- 2020-01-27: Polish docs
