@@ -69,3 +69,4 @@
 - 2020-06-02: Small fix
 - 2020-04-19: Polish docs
 - 2020-10-16: Fix example
+- 2020-02-09: Improve docs
