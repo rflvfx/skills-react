@@ -272,3 +272,4 @@
 - 2020-08-07: Update guide
 - 2020-12-14: Small fix
 - 2020-02-21: Minor update
+- 2020-02-14: Minor update
