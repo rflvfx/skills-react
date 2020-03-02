@@ -81,3 +81,4 @@
 - 2020-12-11: Refine text
 - 2020-10-02: Clarify section
 - 2020-10-05: Add remark
+- 2020-03-02: Update guide
