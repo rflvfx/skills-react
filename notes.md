@@ -67,3 +67,4 @@
 - 2019-05-09: Clarify section
 - 2019-02-22: Adjust content
 - 2020-06-02: Small fix
+- 2020-04-19: Polish docs
