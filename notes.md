@@ -66,3 +66,4 @@
 - 2019-07-08: Review content
 - 2019-05-09: Clarify section
 - 2019-02-22: Adjust content
+- 2020-06-02: Small fix
