@@ -84,3 +84,4 @@
 - 2020-03-02: Update guide
 - 2020-06-03: Fix example
 - 2020-08-10: Minor update
+- 2020-06-13: Update guide
