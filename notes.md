@@ -73,3 +73,4 @@
 - 2020-06-25: Add detail
 - 2020-08-27: Minor update
 - 2020-03-07: Update guide
+- 2020-06-18: Refine text
