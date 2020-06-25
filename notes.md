@@ -70,3 +70,4 @@
 - 2020-04-19: Polish docs
 - 2020-10-16: Fix example
 - 2020-02-09: Improve docs
+- 2020-06-25: Add detail
