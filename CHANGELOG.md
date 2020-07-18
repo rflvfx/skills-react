@@ -282,3 +282,4 @@
 - 2020-04-21: Update guide
 - 2020-06-11: Polish docs
 - 2020-02-04: Update guide
+- 2020-07-18: Update notes
