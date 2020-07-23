@@ -284,3 +284,4 @@
 - 2020-02-04: Update guide
 - 2020-07-18: Update notes
 - 2020-01-08: Expand section
+- 2020-07-23: Typo fix
