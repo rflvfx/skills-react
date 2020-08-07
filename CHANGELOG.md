@@ -269,3 +269,4 @@
 - 2020-09-18: Improve docs
 - 2020-09-17: Add detail
 - 2020-09-28: Add detail
+- 2020-08-07: Update guide
