@@ -250,3 +250,4 @@
 - 2019-04-15: Update guide
 - 2019-08-12: Review content
 - 2020-01-05: Typo fix
+- 2020-08-27: Update guide
