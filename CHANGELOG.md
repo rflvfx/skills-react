@@ -266,3 +266,4 @@
 - 2020-02-27: Expand section
 - 2020-11-09: Clarify section
 - 2020-10-01: Clarify section
+- 2020-09-18: Improve docs
