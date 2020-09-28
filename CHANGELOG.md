@@ -268,3 +268,4 @@
 - 2020-10-01: Clarify section
 - 2020-09-18: Improve docs
 - 2020-09-17: Add detail
+- 2020-09-28: Add detail
