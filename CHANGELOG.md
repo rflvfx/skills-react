@@ -265,3 +265,4 @@
 - 2020-01-06: Update guide
 - 2020-02-27: Expand section
 - 2020-11-09: Clarify section
+- 2020-10-01: Clarify section
