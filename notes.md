@@ -79,3 +79,4 @@
 - 2020-11-24: Update guide
 - 2020-01-17: Add detail
 - 2020-12-11: Refine text
+- 2020-10-02: Clarify section
