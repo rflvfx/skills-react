@@ -68,3 +68,4 @@
 - 2019-02-22: Adjust content
 - 2020-06-02: Small fix
 - 2020-04-19: Polish docs
+- 2020-10-16: Fix example
