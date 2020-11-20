@@ -258,3 +258,4 @@
 - 2020-07-04: Minor update
 - 2020-08-17: Fix example
 - 2020-07-23: Update notes
+- 2020-11-20: Fix example
