@@ -270,3 +270,4 @@
 - 2020-09-17: Add detail
 - 2020-09-28: Add detail
 - 2020-08-07: Update guide
+- 2020-12-14: Small fix
