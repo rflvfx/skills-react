@@ -324,3 +324,4 @@
 - 2021-06-12: Update guide
 - 2021-04-13: Small fix
 - 2021-04-18: Update notes
+- 2021-01-14: Minor update
