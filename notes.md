@@ -90,3 +90,4 @@
 - 2021-08-18: Update notes
 - 2021-12-05: Improve docs
 - 2021-02-28: Update notes
+- 2021-01-14: Clarify section
