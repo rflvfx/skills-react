@@ -299,3 +299,4 @@
 - 2021-05-20: Polish docs
 - 2021-08-25: Improve docs
 - 2021-11-20: Update guide
+- 2021-02-06: Update guide
