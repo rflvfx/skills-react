@@ -100,3 +100,4 @@
 - 2021-06-17: Update notes
 - 2021-01-04: Typo fix
 - 2021-05-01: Add remark
+- 2021-02-22: Improve docs
