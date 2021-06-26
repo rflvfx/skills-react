@@ -313,3 +313,4 @@
 - 2021-11-18: Add detail
 - 2021-05-24: Add detail
 - 2021-11-22: Polish docs
+- 2021-06-26: Adjust content
