@@ -87,3 +87,4 @@
 - 2020-06-13: Update guide
 - 2020-08-15: Improve docs
 - 2020-04-10: Add remark
+- 2021-08-18: Update notes
