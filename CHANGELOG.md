@@ -289,3 +289,4 @@
 - 2021-11-08: Small fix
 - 2021-04-27: Minor update
 - 2021-10-10: Expand section
+- 2021-08-27: Add note
