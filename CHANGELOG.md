@@ -292,3 +292,4 @@
 - 2021-08-27: Add note
 - 2021-05-15: Update notes
 - 2021-07-20: Typo fix
+- 2021-09-06: Typo fix
