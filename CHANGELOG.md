@@ -301,3 +301,4 @@
 - 2021-11-20: Update guide
 - 2021-02-06: Update guide
 - 2021-03-21: Refine text
+- 2021-10-12: Adjust content
