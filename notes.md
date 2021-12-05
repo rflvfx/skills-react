@@ -88,3 +88,4 @@
 - 2020-08-15: Improve docs
 - 2020-04-10: Add remark
 - 2021-08-18: Update notes
+- 2021-12-05: Improve docs
