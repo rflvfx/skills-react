@@ -115,3 +115,4 @@
 - 2022-12-26: Improve docs
 - 2022-02-22: Review content
 - 2022-03-26: Small fix
+- 2022-01-16: Typo fix
