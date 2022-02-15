@@ -109,3 +109,4 @@
 - 2022-11-09: Improve docs
 - 2022-06-04: Polish docs
 - 2022-08-11: Refine text
+- 2022-02-15: Improve docs
