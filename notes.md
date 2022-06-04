@@ -107,3 +107,4 @@
 - 2022-02-08: Minor update
 - 2022-12-13: Improve docs
 - 2022-11-09: Improve docs
+- 2022-06-04: Polish docs
