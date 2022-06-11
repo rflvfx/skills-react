@@ -347,3 +347,4 @@
 - 2022-05-21: Add detail
 - 2022-07-22: Small fix
 - 2022-05-27: Expand section
+- 2022-06-11: Typo fix
