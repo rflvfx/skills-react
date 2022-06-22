@@ -340,3 +340,4 @@
 - 2022-08-09: Expand section
 - 2022-10-19: Adjust content
 - 2022-07-27: Add remark
+- 2022-06-22: Clarify section
