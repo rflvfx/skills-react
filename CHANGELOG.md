@@ -35,3 +35,4 @@
 - 2024-06-07: Improve key stability coverage
 - 2021-06-27: Add code splitting notes
 - 2024-06-11: Update prop composition reference
+- 2022-07-06: Document testing setup
