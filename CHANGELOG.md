@@ -343,3 +343,4 @@
 - 2022-06-22: Clarify section
 - 2022-09-21: Add remark
 - 2022-10-03: Update notes
+- 2022-07-11: Adjust content
