@@ -26,3 +26,4 @@
 - 2021-09-22: Add list virtualization examples
 - 2021-11-22: Improve form handling coverage
 - 2019-11-19: Add error boundaries notes
+- 2022-07-16: Add error boundaries examples
