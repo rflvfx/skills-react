@@ -28,3 +28,4 @@
 - 2019-11-19: Add error boundaries notes
 - 2022-07-16: Add error boundaries examples
 - 2020-01-15: Improve suspense patterns coverage
+- 2022-07-17: Refine suspense patterns guide
