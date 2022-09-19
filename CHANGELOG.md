@@ -333,3 +333,4 @@
 - 2022-05-22: Update guide
 - 2022-08-17: Expand section
 - 2022-03-18: Expand section
+- 2022-09-19: Adjust content
