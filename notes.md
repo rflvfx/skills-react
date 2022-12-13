@@ -105,3 +105,4 @@
 - 2022-04-26: Update notes
 - 2022-05-20: Refine text
 - 2022-02-08: Minor update
+- 2022-12-13: Improve docs
