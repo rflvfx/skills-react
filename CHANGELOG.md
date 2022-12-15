@@ -348,3 +348,4 @@
 - 2022-07-22: Small fix
 - 2022-05-27: Expand section
 - 2022-06-11: Typo fix
+- 2022-12-15: Update guide
