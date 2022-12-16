@@ -353,3 +353,4 @@
 - 2022-05-28: Clarify section
 - 2022-09-05: Fix example
 - 2022-09-09: Small fix
+- 2022-12-16: Small fix
