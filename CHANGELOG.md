@@ -383,3 +383,4 @@
 - 2023-08-27: Review content
 - 2023-04-28: Review content
 - 2023-03-23: Add note
+- 2023-01-02: Clarify section
