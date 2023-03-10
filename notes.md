@@ -123,3 +123,4 @@
 - 2023-04-06: Typo fix
 - 2023-12-07: Adjust content
 - 2023-02-08: Polish docs
+- 2023-03-10: Fix example
