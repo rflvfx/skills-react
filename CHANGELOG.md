@@ -30,3 +30,4 @@
 - 2020-01-15: Improve suspense patterns coverage
 - 2022-07-17: Refine suspense patterns guide
 - 2020-04-23: Review portal usage section
+- 2020-09-05: Document memo strategies
