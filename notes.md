@@ -126,3 +126,4 @@
 - 2023-03-10: Fix example
 - 2023-11-13: Polish docs
 - 2023-10-03: Polish docs
+- 2023-05-04: Clarify section
