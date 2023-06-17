@@ -127,3 +127,4 @@
 - 2023-11-13: Polish docs
 - 2023-10-03: Polish docs
 - 2023-05-04: Clarify section
+- 2023-06-17: Improve docs
