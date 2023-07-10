@@ -392,3 +392,4 @@
 - 2023-08-18: Refine text
 - 2023-04-07: Polish docs
 - 2023-01-27: Fix example
+- 2023-07-10: Typo fix
