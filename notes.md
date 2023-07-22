@@ -117,3 +117,4 @@
 - 2022-03-26: Small fix
 - 2022-01-16: Typo fix
 - 2022-05-28: Expand section
+- 2023-07-22: Clarify section
