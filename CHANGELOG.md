@@ -366,3 +366,4 @@
 - 2023-04-17: Expand section
 - 2023-10-17: Add detail
 - 2023-03-22: Improve docs
+- 2023-08-01: Fix example
