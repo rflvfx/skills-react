@@ -375,3 +375,4 @@
 - 2023-12-09: Add note
 - 2023-04-08: Small fix
 - 2023-04-26: Fix example
+- 2023-08-20: Typo fix
