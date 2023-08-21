@@ -398,3 +398,4 @@
 - 2023-05-04: Add note
 - 2023-08-25: Add detail
 - 2023-10-09: Clarify section
+- 2023-08-21: Minor update
