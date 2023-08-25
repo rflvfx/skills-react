@@ -396,3 +396,4 @@
 - 2023-02-01: Improve docs
 - 2023-09-20: Clarify section
 - 2023-05-04: Add note
+- 2023-08-25: Add detail
