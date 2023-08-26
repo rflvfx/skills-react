@@ -39,3 +39,4 @@
 - 2024-08-28: Refine code splitting guide
 - 2022-11-28: Update context optimization reference
 - 2026-01-20: Document context optimization
+- 2026-10-17: Document render batching
