@@ -394,3 +394,4 @@
 - 2023-01-27: Fix example
 - 2023-07-10: Typo fix
 - 2023-02-01: Improve docs
+- 2023-09-20: Clarify section
