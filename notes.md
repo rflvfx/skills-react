@@ -129,3 +129,4 @@
 - 2023-05-04: Clarify section
 - 2023-06-17: Improve docs
 - 2023-06-08: Refine text
+- 2023-10-07: Adjust content
