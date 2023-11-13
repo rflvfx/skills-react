@@ -124,3 +124,4 @@
 - 2023-12-07: Adjust content
 - 2023-02-08: Polish docs
 - 2023-03-10: Fix example
+- 2023-11-13: Polish docs
