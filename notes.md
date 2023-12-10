@@ -131,3 +131,4 @@
 - 2023-06-08: Refine text
 - 2023-10-07: Adjust content
 - 2023-08-07: Add note
+- 2023-12-10: Review content
