@@ -137,3 +137,4 @@
 - 2024-07-13: Refine text
 - 2024-02-23: Typo fix
 - 2024-12-07: Typo fix
+- 2024-01-11: Add detail
