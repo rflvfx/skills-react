@@ -417,3 +417,4 @@
 - 2024-10-23: Adjust content
 - 2024-11-18: Update guide
 - 2024-04-11: Expand section
+- 2024-01-22: Refine text
