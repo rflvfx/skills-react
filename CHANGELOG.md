@@ -41,3 +41,4 @@
 - 2026-01-20: Document context optimization
 - 2026-10-17: Document render batching
 - 2026-12-06: Improve list virtualization coverage
+- 2024-02-22: Add suspense patterns notes
