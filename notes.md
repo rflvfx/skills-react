@@ -142,3 +142,4 @@
 - 2024-09-12: Clarify section
 - 2024-07-23: Minor update
 - 2024-02-24: Typo fix
+- 2024-03-05: Add detail
