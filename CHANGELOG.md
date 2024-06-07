@@ -31,3 +31,6 @@
 - 2022-07-17: Refine suspense patterns guide
 - 2020-04-23: Review portal usage section
 - 2020-09-05: Document memo strategies
+- 2023-04-11: Improve memo strategies coverage
+- 2024-06-07: Improve key stability coverage
+- 2021-06-27: Add code splitting notes
