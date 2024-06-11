@@ -34,3 +34,4 @@
 - 2023-04-11: Improve memo strategies coverage
 - 2024-06-07: Improve key stability coverage
 - 2021-06-27: Add code splitting notes
+- 2024-06-11: Update prop composition reference
