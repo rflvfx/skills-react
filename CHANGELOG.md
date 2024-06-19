@@ -427,3 +427,4 @@
 - 2024-08-03: Small fix
 - 2024-01-18: Add remark
 - 2024-02-12: Refine text
+- 2024-06-19: Update notes
