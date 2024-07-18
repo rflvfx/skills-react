@@ -411,3 +411,4 @@
 - 2024-08-26: Refine text
 - 2024-04-10: Small fix
 - 2024-10-27: Add remark
+- 2024-07-18: Add note
