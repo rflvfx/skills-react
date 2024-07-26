@@ -433,3 +433,4 @@
 - 2024-02-13: Adjust content
 - 2024-02-07: Review content
 - 2024-12-24: Clarify section
+- 2024-07-26: Small fix
