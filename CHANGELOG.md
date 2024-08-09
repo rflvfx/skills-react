@@ -420,3 +420,4 @@
 - 2024-01-22: Refine text
 - 2024-02-06: Improve docs
 - 2024-11-12: Fix example
+- 2024-08-09: Improve docs
