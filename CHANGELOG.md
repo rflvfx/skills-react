@@ -402,3 +402,4 @@
 - 2023-09-14: Update guide
 - 2024-02-25: Expand section
 - 2024-02-13: Add detail
+- 2024-08-19: Refine text
