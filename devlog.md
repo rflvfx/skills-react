@@ -3,3 +3,4 @@
 - 2016-07-20 - Improve documentation
 - 2016-11-10 - Update content
 - 2017-02-15 - Update notes
+- 2024-08-20 - Add practice notes
