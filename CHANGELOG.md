@@ -408,3 +408,4 @@
 - 2024-02-17: Add note
 - 2024-02-26: Minor update
 - 2024-06-10: Fix example
+- 2024-08-26: Refine text
