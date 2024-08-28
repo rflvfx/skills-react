@@ -36,3 +36,4 @@
 - 2021-06-27: Add code splitting notes
 - 2024-06-11: Update prop composition reference
 - 2022-07-06: Document testing setup
+- 2024-08-28: Refine code splitting guide
