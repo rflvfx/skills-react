@@ -43,3 +43,4 @@
 - 2026-12-06: Improve list virtualization coverage
 - 2024-02-22: Add suspense patterns notes
 - 2024-06-09: Add ref forwarding examples
+- 2024-09-04: Add memo strategies examples
