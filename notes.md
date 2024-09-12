@@ -139,3 +139,4 @@
 - 2024-12-07: Typo fix
 - 2024-01-11: Add detail
 - 2024-03-22: Typo fix
+- 2024-09-12: Clarify section
