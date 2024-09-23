@@ -133,3 +133,4 @@
 - 2023-08-07: Add note
 - 2023-12-10: Review content
 - 2023-01-17: Typo fix
+- 2024-09-23: Refine text
