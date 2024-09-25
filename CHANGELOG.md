@@ -422,3 +422,4 @@
 - 2024-11-12: Fix example
 - 2024-08-09: Improve docs
 - 2024-02-04: Expand section
+- 2024-09-25: Typo fix
