@@ -414,3 +414,4 @@
 - 2024-07-18: Add note
 - 2024-08-02: Improve docs
 - 2024-07-02: Minor update
+- 2024-10-23: Adjust content
