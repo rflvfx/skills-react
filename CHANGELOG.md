@@ -415,3 +415,4 @@
 - 2024-08-02: Improve docs
 - 2024-07-02: Minor update
 - 2024-10-23: Adjust content
+- 2024-11-18: Update guide
