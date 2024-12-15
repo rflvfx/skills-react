@@ -404,3 +404,4 @@
 - 2024-02-13: Add detail
 - 2024-08-19: Refine text
 - 2024-11-17: Adjust content
+- 2024-12-15: Adjust content
