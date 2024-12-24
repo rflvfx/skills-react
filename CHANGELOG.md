@@ -432,3 +432,4 @@
 - 2024-05-01: Polish docs
 - 2024-02-13: Adjust content
 - 2024-02-07: Review content
+- 2024-12-24: Clarify section
