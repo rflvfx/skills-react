@@ -448,3 +448,4 @@
 - 2025-11-04: Expand section
 - 2025-06-08: Fix example
 - 2025-05-11: Minor update
+- 2025-02-01: Update guide
