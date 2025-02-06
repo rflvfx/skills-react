@@ -439,3 +439,4 @@
 - 2024-09-26: Fix example
 - 2025-07-12: Add note
 - 2025-01-25: Add note
+- 2025-02-06: Typo fix
