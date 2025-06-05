@@ -452,3 +452,4 @@
 - 2025-01-04: Add remark
 - 2025-07-01: Update guide
 - 2025-08-18: Add remark
+- 2025-06-05: Update notes
