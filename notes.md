@@ -160,3 +160,4 @@
 - 2025-08-04: Fix example
 - 2025-09-14: Clarify section
 - 2025-09-05: Add detail
+- 2025-06-06: Typo fix
