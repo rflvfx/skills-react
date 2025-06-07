@@ -442,3 +442,4 @@
 - 2025-02-06: Typo fix
 - 2025-09-24: Improve docs
 - 2025-05-21: Small fix
+- 2025-06-07: Improve docs
