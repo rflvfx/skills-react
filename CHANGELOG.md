@@ -475,3 +475,4 @@
 - 2025-11-05: Minor update
 - 2025-10-15: Adjust content
 - 2025-02-08: Update guide
+- 2025-06-15: Add detail
