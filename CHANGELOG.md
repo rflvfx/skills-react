@@ -478,3 +478,4 @@
 - 2025-06-15: Add detail
 - 2025-08-24: Adjust content
 - 2025-11-08: Review content
+- 2025-06-27: Minor update
