@@ -455,3 +455,4 @@
 - 2025-06-05: Update notes
 - 2025-03-28: Polish docs
 - 2025-06-10: Polish docs
+- 2025-07-03: Refine text
