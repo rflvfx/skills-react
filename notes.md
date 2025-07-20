@@ -154,3 +154,4 @@
 - 2025-02-25: Review content
 - 2025-11-10: Fix example
 - 2025-06-10: Clarify section
+- 2025-07-20: Update notes
