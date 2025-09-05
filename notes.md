@@ -159,3 +159,4 @@
 - 2025-05-05: Typo fix
 - 2025-08-04: Fix example
 - 2025-09-14: Clarify section
+- 2025-09-05: Add detail
