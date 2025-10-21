@@ -459,3 +459,4 @@
 - 2025-11-01: Adjust content
 - 2025-04-27: Review content
 - 2025-07-14: Polish docs
+- 2025-10-21: Review content
