@@ -147,3 +147,4 @@
 - 2024-06-01: Improve docs
 - 2024-11-17: Update notes
 - 2025-02-08: Update guide
+- 2025-10-26: Refine text
