@@ -472,3 +472,4 @@
 - 2025-04-11: Update guide
 - 2025-01-19: Fix example
 - 2025-10-14: Adjust content
+- 2025-11-05: Minor update
