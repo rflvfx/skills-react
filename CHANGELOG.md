@@ -507,3 +507,4 @@
 - 2026-09-25: Review content
 - 2026-08-25: Typo fix
 - 2026-05-18: Refine text
+- 2026-01-03: Clarify section
