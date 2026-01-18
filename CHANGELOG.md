@@ -487,3 +487,4 @@
 - 2026-03-08: Improve docs
 - 2026-11-12: Typo fix
 - 2026-04-15: Small fix
+- 2026-01-18: Improve docs
