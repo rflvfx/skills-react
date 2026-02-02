@@ -489,3 +489,4 @@
 - 2026-04-15: Small fix
 - 2026-01-18: Improve docs
 - 2026-09-24: Expand section
+- 2026-02-02: Minor update
