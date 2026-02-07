@@ -503,3 +503,4 @@
 - 2026-04-20: Add remark
 - 2026-01-14: Clarify section
 - 2026-07-09: Add detail
+- 2026-02-07: Improve docs
