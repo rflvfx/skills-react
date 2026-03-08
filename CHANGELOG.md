@@ -484,3 +484,4 @@
 - 2026-05-20: Fix example
 - 2026-10-06: Add note
 - 2026-04-03: Polish docs
+- 2026-03-08: Improve docs
