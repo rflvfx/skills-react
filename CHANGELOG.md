@@ -45,3 +45,4 @@
 - 2024-06-09: Add ref forwarding examples
 - 2024-09-04: Add memo strategies examples
 - 2026-02-03: Review testing setup section
+- 2026-04-11: Expand accessibility audit docs
