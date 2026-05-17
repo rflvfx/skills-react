@@ -498,3 +498,4 @@
 - 2026-11-13: Update guide
 - 2026-08-02: Clarify section
 - 2026-02-01: Clarify section
+- 2026-05-17: Small fix
