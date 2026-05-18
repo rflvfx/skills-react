@@ -506,3 +506,4 @@
 - 2026-02-07: Improve docs
 - 2026-09-25: Review content
 - 2026-08-25: Typo fix
+- 2026-05-18: Refine text
