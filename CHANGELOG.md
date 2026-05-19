@@ -513,3 +513,4 @@
 - 2026-10-06: Expand section
 - 2026-12-14: Update guide
 - 2026-06-22: Minor update
+- 2026-05-19: Improve docs
