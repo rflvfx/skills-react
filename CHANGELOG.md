@@ -502,3 +502,4 @@
 - 2026-12-28: Adjust content
 - 2026-04-20: Add remark
 - 2026-01-14: Clarify section
+- 2026-07-09: Add detail
