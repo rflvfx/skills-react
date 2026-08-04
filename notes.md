@@ -169,3 +169,4 @@
 - 2026-08-12: Adjust content
 - 2026-12-05: Minor update
 - 2026-09-17: Add detail
+- 2026-08-04: Improve docs
