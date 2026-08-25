@@ -505,3 +505,4 @@
 - 2026-07-09: Add detail
 - 2026-02-07: Improve docs
 - 2026-09-25: Review content
+- 2026-08-25: Typo fix
