@@ -488,3 +488,4 @@
 - 2026-11-12: Typo fix
 - 2026-04-15: Small fix
 - 2026-01-18: Improve docs
+- 2026-09-24: Expand section
