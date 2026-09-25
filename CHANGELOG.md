@@ -504,3 +504,4 @@
 - 2026-01-14: Clarify section
 - 2026-07-09: Add detail
 - 2026-02-07: Improve docs
+- 2026-09-25: Review content
