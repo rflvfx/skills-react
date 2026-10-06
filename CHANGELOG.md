@@ -510,3 +510,4 @@
 - 2026-01-03: Clarify section
 - 2026-07-16: Polish docs
 - 2026-04-27: Expand section
+- 2026-10-06: Expand section
