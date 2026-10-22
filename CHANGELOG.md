@@ -46,3 +46,4 @@
 - 2024-09-04: Add memo strategies examples
 - 2026-02-03: Review testing setup section
 - 2026-04-11: Expand accessibility audit docs
+- 2026-10-22: Update state colocation reference
