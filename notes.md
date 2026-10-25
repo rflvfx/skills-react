@@ -163,3 +163,4 @@
 - 2025-06-06: Typo fix
 - 2026-11-23: Clarify section
 - 2026-04-24: Review content
+- 2026-10-25: Improve docs
