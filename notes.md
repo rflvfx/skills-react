@@ -161,3 +161,4 @@
 - 2025-09-14: Clarify section
 - 2025-09-05: Add detail
 - 2025-06-06: Typo fix
+- 2026-11-23: Clarify section
